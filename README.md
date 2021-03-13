@@ -1,2 +1,2 @@
-# todo_app
-a Django REST framework powered app
+# todo-app
+backend logic for a simple todo application. 
