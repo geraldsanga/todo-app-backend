@@ -1,4 +1,4 @@
-# todo-app ⏲️
+# todo-app-backend ⏲️
 A django 🐍 powered todo application 📱
 all CRUD operations working ✔️
 
@@ -6,3 +6,16 @@ all CRUD operations working ✔️
 * Create todo 📎
 * View todo 👀
 * Delete todo ❎
+
+## Project Setup ⚙️
+
+### Install all dependencies 🛒
+```
+pip install -r requirements.txt
+```
+
+### Start the server ⚡
+
+```
+python manage.py runserver
+```
