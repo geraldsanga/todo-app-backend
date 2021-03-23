@@ -9,6 +9,9 @@ all CRUD operations working ✔️
 
 ## Project Setup ⚙️
 
+### Install the frontend application
+Point your browser 👉 [here](https://github.com/geraldsanga/todo-app-frontend/) to follow instructions on how to install the frontend application.
+
 ### Install all dependencies 🛒
 ```
 pip install -r requirements.txt
