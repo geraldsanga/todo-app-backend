@@ -1,4 +1,3 @@
-![Logo](/repo-assets/todo.png)
 # todo-app-backend ⏲️
 A django 🐍 powered todo application 📱
 all CRUD operations working ✔️
